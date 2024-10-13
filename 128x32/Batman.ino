@@ -1,4 +1,4 @@
-const unsigned char Pokemon[31] [512] PROGMEM = {
+const unsigned char Batman[31] [512] PROGMEM = {
 
 	// '44gd-ezgif, 128x32px
 
